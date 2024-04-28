@@ -3,7 +3,7 @@
 <p> -I'm currently learning new technology stacks </p>
 <p> -passionate about learning full stack web development, software testing </p>
 <p> -creating bugs since 2021 </p>
-- 📫 Reach me -<a href= "mailto:tasniatasneem7@gmail.com"> ... </a>
+- 📫 Reach me -<a href= "mailto:tasniatasneem7@gmail.com">Tohfa's email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
