@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tasniattohfa)](https://git.io/streak-stats)
 <!--
 **tasniattohfa/tasniattohfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
