@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Tohfa
 
 
 
 
 - 🌱 I’m currently learning different programming languages and web development
 .
-- 📫 How to reach me: Email:tasniatasneem@iut-dhaka.edu
+- 📫 Reach me: Email:tasniatasneem@iut-dhaka.edu
   
 
 
