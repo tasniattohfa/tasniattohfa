@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tohfa</h1>
-
-
+<h3 align="left">About me:</h3>
+<p> -I'm currently learning new technology stacks </p>
+<p> -passionate about learning full stack web development, software testing </p>
+<p> -creating bugs since 2021 </p>
 - 📫 Reach me **tasniatasneem7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
