@@ -19,7 +19,7 @@
 <!--  leetcode-sql-problems -->
 <h4> leetcode-sql-problems</h4>
 <p>This repository contains solutions to various SQL problems from LeetCode, categorized by difficulty level (Easy, Medium, Hard). Each problem is provided with a SQL script demonstrating its solution.</p>
-<p>GitHub: <a href="https://github.com/tasniattohfa/ leetcode-sql-problems</a></p>
+<p>GitHub: <a href="[https://github.com/tasniattohfa/ leetcode-sql-problems](https://github.com/tasniattohfa/leetcode-sql-problems)</a></p>
 
 <!--  review_analysis -->
 <h4> review_analysis</h4>
