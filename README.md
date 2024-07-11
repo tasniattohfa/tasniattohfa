@@ -19,12 +19,12 @@
 <!--  leetcode-sql-problems -->
 <h4> leetcode-sql-problems</h4>
 <p>This repository contains solutions to various SQL problems from LeetCode, categorized by difficulty level (Easy, Medium, Hard). Each problem is provided with a SQL script demonstrating its solution.</p>
-<p>GitHub: <a href="[https://github.com/tasniattohfa/ leetcode-sql-problems](https://github.com/tasniattohfa/leetcode-sql-problems)</a></p>
+<p>GitHub: <a href="https://github.com/tasniattohfa/leetcode-sql-problems</a></p>
 
 <!--  review_analysis -->
 <h4> review_analysis</h4>
 <p>In this repository, I tried to analyze different apps' review analysis through google play scraper and sentiment of those review analysis through textBlob</p>
-<p>GitHub: <a href="https://github.com/tasniattohfa/ review_analysis</a></p>
+<p>GitHub: <a href="https://github.com/tasniattohfa/review_analysis</a></p>
 
 <!-- OpTexa -->
 <h4>OpTexa</h4>
