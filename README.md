@@ -70,10 +70,10 @@
 <p>This repository contains solutions to various SQL problems from LeetCode, categorized by difficulty level (Easy, Medium, Hard). Each problem is provided with a SQL script demonstrating its solution.</p>
 <p>GitHub: <a href="https://github.com/tasniattohfa/leetcode-sql-problems">leetcode-sql-problems Repository</a></p>
 
-<!-- review_analysis -->
-<h4>review_analysis</h4>
-<p>In this repository, I tried to analyze different apps' reviews through Google Play scraper and sentiment analysis of those reviews through TextBlob.</p>
-<p>GitHub: <a href="https://github.com/tasniattohfa/review_analysis">review_analysis Repository</a></p>
+<!-- codeforces_problems -->
+<h4>codeforces_problems</h4>
+<p>This repository contains solutions to various codeforces problems</p>
+<p>GitHub: <a href="https://github.com/tasniattohfa/codeforces_problems">codeforces_problems Repository</a></p>
 
 <h3 align="left">My Projects:</h3> 
 
@@ -81,6 +81,11 @@
 <h4>OpTexa</h4>
 <p>A mobile application built to help visually impaired people using YOLOv5.</p>
 <p>GitHub: <a href="https://github.com/tasniattohfa/Design_Project_1-OpTexa">OpTexa Repository</a></p>
+
+<!-- review_analysis -->
+<h4>review_analysis</h4>
+<p>In this repository, I tried to analyze different apps' reviews through Google Play scraper and sentiment analysis of those reviews through TextBlob.</p>
+<p>GitHub: <a href="https://github.com/tasniattohfa/review_analysis">review_analysis Repository</a></p>
 
 <!-- Server Programming Project -->
 <h4>Server Programming Project</h4>
