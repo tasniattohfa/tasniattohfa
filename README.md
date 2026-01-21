@@ -2,7 +2,7 @@
 <h3 align="left">About me:</h3>
 <ul>
   <li>I'm currently learning new technology stacks</li>
-  <li>Passionate about learning full stack web development, software testing, business and business modules, and related software</li>
+  <li>Passionate about learning software testing, business and business modules, and related software</li>
   <li>Creating bugs since 2021</li>
 </ul>
 <p>📫 Reach me: <a href="mailto:tasniatasneem7@gmail.com">tasniatasneem7@gmail.com</a></p>
